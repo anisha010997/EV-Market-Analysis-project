@@ -1,0 +1,14 @@
+Column,Description,Unit_or_Type
+Vehicle_ID,Unique synthetic identifier for each sample record,Text
+Model,Synthetic model label,Text
+Manufacturer,Synthetic manufacturer label,Text
+Vehicle_Category,Vehicle category,Category
+Year,"Illustrative model year, 2020–2026",Year
+Battery_Chemistry,Illustrative battery chemistry label,Category
+Battery_Capacity_kWh,Synthetic battery capacity,kWh
+Driving_Range_km,Synthetic driving range,km
+Estimated_Charging_Hours,Synthetic estimated charging duration,hours
+Price_USD,Synthetic illustrative price,USD
+Manufacturing_Country,Synthetic country label for dashboard practice,Country
+Sample_Annual_Sales_Units,Synthetic illustrative annual sales count; not real market data,Units
+Sample_Customer_Rating_5,Synthetic illustrative rating on a 5-point scale,Rating / 5

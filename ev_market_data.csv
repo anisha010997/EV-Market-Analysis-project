@@ -1,0 +1,81 @@
+Vehicle_ID,Model,Manufacturer,Vehicle_Category,Year,Battery_Chemistry,Battery_Capacity_kWh,Driving_Range_km,Estimated_Charging_Hours,Price_USD,Manufacturing_Country,Sample_Annual_Sales_Units,Sample_Customer_Rating_5
+EV-001,Glide Electric Hatchback 01,Aster Motors,Hatchback,2025,LFP,47.2,224,2.0,27700.0,India,36241,3.3
+EV-002,Horizon Motors Hatchback 02,Evergreen Auto,Hatchback,2025,NMC,32.0,195,0.9,29300.0,India,36213,3.9
+EV-003,Flux Vehicles Sedan 03,Evergreen Auto,Sedan,2020,Sodium-Ion,62.0,236,1.3,48200.0,India,25398,3.3
+EV-004,Flux Vehicles Van 04,Dynamo Mobility,Van,2025,Solid-State,51.9,410,2.3,48000.0,Japan,41035,4.7
+EV-005,Horizon Motors Hatchback 05,Flux Vehicles,Hatchback,2026,LFP,44.8,250,0.9,35300.0,China,7119,3.8
+EV-006,Dynamo Mobility SUV 06,Cedar Automotive,SUV,2024,NCA,68.6,395,1.4,65000.0,Germany,42113,3.4
+EV-007,Aster Motors Van 07,Flux Vehicles,Van,2026,NCA,99.4,644,2.7,69200.0,Germany,4165,3.5
+EV-008,Horizon Motors SUV 08,Cedar Automotive,SUV,2025,LFP,68.7,402,1.5,59600.0,United States,33217,3.8
+EV-009,Cedar Automotive Sedan 09,Horizon Motors,Sedan,2024,NMC,82.2,492,1.9,55200.0,India,26675,3.8
+EV-010,Horizon Motors Hatchback 10,Evergreen Auto,Hatchback,2023,LFP,29.6,136,0.7,27600.0,South Korea,25509,4.2
+EV-011,Horizon Motors Hatchback 11,Aster Motors,Hatchback,2020,LFP,45.5,237,1.6,33200.0,Japan,19734,3.9
+EV-012,Dynamo Mobility SUV 12,Cedar Automotive,SUV,2026,Solid-State,104.5,732,4.5,76500.0,United States,42374,4.0
+EV-013,Flux Vehicles Sedan 13,Evergreen Auto,Sedan,2023,Solid-State,92.7,732,1.9,62000.0,China,1776,3.3
+EV-014,Cedar Automotive Hatchback 14,Horizon Motors,Hatchback,2020,NMC,51.3,346,2.3,33200.0,South Korea,35411,4.5
+EV-015,Evergreen Auto Sedan 15,Glide Electric,Sedan,2026,NCA,71.4,458,1.5,60800.0,Japan,48336,4.3
+EV-016,Dynamo Mobility SUV 16,Aster Motors,SUV,2020,Sodium-Ion,113.5,477,4.1,64200.0,India,39055,4.1
+EV-017,Cedar Automotive Hatchback 17,Horizon Motors,Hatchback,2022,NMC,27.0,137,0.9,26200.0,China,44342,4.0
+EV-018,BluePeak EV Van 18,Aster Motors,Van,2023,Sodium-Ion,55.5,207,1.7,50600.0,Germany,48280,3.2
+EV-019,BluePeak EV SUV 19,Horizon Motors,SUV,2022,LFP,71.2,331,2.1,62000.0,South Korea,30818,3.5
+EV-020,Horizon Motors Hatchback 20,Horizon Motors,Hatchback,2026,LFP,44.6,232,2.2,27000.0,China,15991,3.4
+EV-021,Horizon Motors Van 21,Cedar Automotive,Van,2026,LFP,54.1,235,1.7,56800.0,China,30319,3.6
+EV-022,Cedar Automotive SUV 22,Aster Motors,SUV,2020,NMC,118.0,715,3.3,84400.0,South Korea,3786,4.2
+EV-023,Aster Motors Hatchback 23,BluePeak EV,Hatchback,2024,NMC,27.1,139,0.6,25500.0,Germany,16635,4.1
+EV-024,Evergreen Auto Two-wheeler 24,Horizon Motors,Two-wheeler,2021,Solid-State,7.2,57,0.3,4300.0,United States,17907,3.8
+EV-025,Flux Vehicles Hatchback 25,BluePeak EV,Hatchback,2021,LFP,38.7,230,0.8,25600.0,China,33653,3.6
+EV-026,Evergreen Auto SUV 26,BluePeak EV,SUV,2026,NCA,65.3,447,1.6,63300.0,China,43358,4.1
+EV-027,Evergreen Auto SUV 27,Horizon Motors,SUV,2021,LFP,112.8,623,4.6,69900.0,United States,47529,3.7
+EV-028,Cedar Automotive Hatchback 28,Horizon Motors,Hatchback,2021,LFP,44.0,249,2.1,29400.0,South Korea,42253,4.9
+EV-029,Cedar Automotive Van 29,Glide Electric,Van,2024,Solid-State,45.5,276,1.0,53100.0,China,2861,4.6
+EV-030,BluePeak EV Hatchback 30,Flux Vehicles,Hatchback,2022,NCA,35.9,253,0.7,24800.0,South Korea,14267,4.3
+EV-031,Aster Motors Van 31,Cedar Automotive,Van,2026,Solid-State,86.2,681,3.2,53900.0,Japan,12103,4.7
+EV-032,Aster Motors SUV 32,Horizon Motors,SUV,2026,Sodium-Ion,107.1,509,2.4,68100.0,China,46458,3.3
+EV-033,Evergreen Auto Sedan 33,BluePeak EV,Sedan,2025,Sodium-Ion,62.5,293,1.4,46600.0,United States,13156,3.8
+EV-034,Evergreen Auto SUV 34,Aster Motors,SUV,2020,Solid-State,81.0,650,2.2,74800.0,India,17618,3.4
+EV-035,Dynamo Mobility Two-wheeler 35,Evergreen Auto,Two-wheeler,2020,Sodium-Ion,5.5,26,0.2,4100.0,India,25744,4.7
+EV-036,Glide Electric Van 36,BluePeak EV,Van,2025,LFP,73.6,414,1.8,64900.0,Japan,44450,3.5
+EV-037,Glide Electric SUV 37,Evergreen Auto,SUV,2022,Solid-State,75.4,583,1.8,61000.0,South Korea,44205,3.8
+EV-038,Aster Motors Sedan 38,Evergreen Auto,Sedan,2024,NMC,66.0,444,1.6,58200.0,United States,37796,3.6
+EV-039,Cedar Automotive Sedan 39,BluePeak EV,Sedan,2025,Sodium-Ion,84.3,372,2.8,56100.0,United States,14505,4.0
+EV-040,Aster Motors Two-wheeler 40,Dynamo Mobility,Two-wheeler,2021,Solid-State,5.4,41,0.1,3600.0,Germany,13550,3.4
+EV-041,Cedar Automotive Two-wheeler 41,Aster Motors,Two-wheeler,2023,LFP,6.6,38,0.2,4100.0,India,32899,3.8
+EV-042,Horizon Motors Van 42,Flux Vehicles,Van,2021,NMC,54.7,370,1.5,45500.0,Germany,8453,3.9
+EV-043,Dynamo Mobility Two-wheeler 43,Evergreen Auto,Two-wheeler,2026,Solid-State,6.3,50,0.2,3200.0,South Korea,31608,3.9
+EV-044,Cedar Automotive Van 44,Dynamo Mobility,Van,2022,NMC,60.1,309,2.1,49700.0,Germany,35899,3.2
+EV-045,Aster Motors Sedan 45,Glide Electric,Sedan,2021,NMC,48.2,277,1.3,45500.0,Germany,28034,3.8
+EV-046,Dynamo Mobility Hatchback 46,Horizon Motors,Hatchback,2024,NCA,34.0,204,0.7,30900.0,China,49489,4.4
+EV-047,Cedar Automotive SUV 47,Aster Motors,SUV,2025,Sodium-Ion,86.6,357,2.2,74200.0,Germany,11316,4.6
+EV-048,Flux Vehicles Two-wheeler 48,Dynamo Mobility,Two-wheeler,2021,Solid-State,8.6,52,0.3,5100.0,Germany,3795,3.6
+EV-049,Aster Motors SUV 49,Flux Vehicles,SUV,2022,NCA,104.5,624,2.5,81700.0,China,5867,3.9
+EV-050,BluePeak EV Hatchback 50,Dynamo Mobility,Hatchback,2021,LFP,47.6,279,1.8,26800.0,Germany,16133,3.3
+EV-051,BluePeak EV SUV 51,Aster Motors,SUV,2026,NCA,65.9,423,1.6,55700.0,United States,11232,4.8
+EV-052,Evergreen Auto Two-wheeler 52,BluePeak EV,Two-wheeler,2025,Sodium-Ion,6.0,27,0.3,3900.0,South Korea,16415,3.3
+EV-053,BluePeak EV Hatchback 53,Glide Electric,Hatchback,2020,NCA,41.0,267,1.9,31800.0,United States,28028,4.6
+EV-054,Horizon Motors Van 54,Glide Electric,Van,2026,NMC,69.0,438,1.4,51900.0,Japan,35769,4.5
+EV-055,Glide Electric Two-wheeler 55,Flux Vehicles,Two-wheeler,2023,NCA,5.2,30,0.1,3100.0,India,16481,4.5
+EV-056,Aster Motors Van 56,Dynamo Mobility,Van,2024,NCA,55.0,311,1.3,49400.0,India,46452,4.7
+EV-057,BluePeak EV Sedan 57,Evergreen Auto,Sedan,2023,Sodium-Ion,69.4,320,1.7,55300.0,China,29871,4.5
+EV-058,Flux Vehicles Van 58,Horizon Motors,Van,2023,NMC,61.8,375,1.8,54000.0,United States,49385,4.1
+EV-059,Dynamo Mobility SUV 59,Horizon Motors,SUV,2026,NCA,70.0,464,2.4,67100.0,United States,45730,3.4
+EV-060,Cedar Automotive Two-wheeler 60,Evergreen Auto,Two-wheeler,2022,Solid-State,8.0,64,0.2,3800.0,India,12259,3.6
+EV-061,Horizon Motors Hatchback 61,Horizon Motors,Hatchback,2020,Solid-State,33.8,268,0.9,30200.0,Germany,1303,4.1
+EV-062,Aster Motors SUV 62,Cedar Automotive,SUV,2020,NMC,117.8,644,2.6,66400.0,China,26760,4.0
+EV-063,Glide Electric Two-wheeler 63,Horizon Motors,Two-wheeler,2024,NCA,2.9,17,0.1,2600.0,Germany,41028,3.5
+EV-064,Dynamo Mobility SUV 64,Dynamo Mobility,SUV,2025,Solid-State,119.4,784,3.1,81000.0,United States,7003,4.8
+EV-065,Aster Motors Hatchback 65,Dynamo Mobility,Hatchback,2025,NMC,32.2,194,1.3,27000.0,United States,39416,3.9
+EV-066,Dynamo Mobility SUV 66,Glide Electric,SUV,2024,Sodium-Ion,59.6,233,2.1,64000.0,India,43831,4.5
+EV-067,Evergreen Auto Two-wheeler 67,Horizon Motors,Two-wheeler,2021,NMC,8.5,57,0.2,3500.0,India,20659,4.2
+EV-068,Glide Electric Van 68,Flux Vehicles,Van,2020,NCA,83.5,589,2.4,59900.0,South Korea,39692,3.2
+EV-069,Aster Motors SUV 69,Cedar Automotive,SUV,2020,LFP,60.9,358,1.4,61400.0,Germany,44558,4.6
+EV-070,Glide Electric Two-wheeler 70,Flux Vehicles,Two-wheeler,2023,Sodium-Ion,11.2,43,0.3,5500.0,United States,6479,3.9
+EV-071,BluePeak EV Hatchback 71,Flux Vehicles,Hatchback,2026,NMC,34.9,219,1.2,32200.0,United States,36551,3.2
+EV-072,Aster Motors SUV 72,Dynamo Mobility,SUV,2025,LFP,118.1,589,3.3,91300.0,South Korea,36059,3.9
+EV-073,Horizon Motors SUV 73,Horizon Motors,SUV,2024,Solid-State,104.2,756,2.4,65800.0,India,9086,4.8
+EV-074,BluePeak EV Hatchback 74,Horizon Motors,Hatchback,2023,Solid-State,49.0,364,1.7,27000.0,India,6608,3.5
+EV-075,Cedar Automotive Sedan 75,Glide Electric,Sedan,2023,Sodium-Ion,91.6,366,2.2,57600.0,China,31447,3.5
+EV-076,Evergreen Auto Two-wheeler 76,Aster Motors,Two-wheeler,2026,Solid-State,9.5,59,0.4,5300.0,United States,27693,3.7
+EV-077,Glide Electric SUV 77,Horizon Motors,SUV,2023,Solid-State,92.7,679,2.0,68600.0,United States,23118,3.7
+EV-078,Glide Electric Sedan 78,Glide Electric,Sedan,2025,NMC,73.6,400,1.7,46000.0,Japan,31496,4.4
+EV-079,Horizon Motors Sedan 79,Aster Motors,Sedan,2020,Sodium-Ion,93.2,352,1.9,56200.0,Japan,29355,3.3
+EV-080,Glide Electric Sedan 80,BluePeak EV,Sedan,2022,Sodium-Ion,88.5,433,4.0,64500.0,United States,22687,4.2

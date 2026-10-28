@@ -1,0 +1,9 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+# Tableau lock and temporary files
+*.twb~
+*.hyper~
+# Keep packaged workbook (*.twbx) if intentionally added
